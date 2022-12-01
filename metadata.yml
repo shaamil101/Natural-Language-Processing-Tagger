@@ -1,0 +1,14 @@
+---
+:id: 147677688
+:submitters:
+- :name: Nicolas Schaievitch
+  :email: nicolas.i.schaievitch.26@dartmouth.edu
+- :name: Shaamil Shaw Alem
+  :email: shaamil.k.shaw.alem.26@dartmouth.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-10 01:31:04.705493000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-09 17:31:04.705493000 Z
+:status: processed
+:score: 89.7

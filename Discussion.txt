@@ -1,0 +1,5 @@
+Note: we are using our late day allowance.
+
+After trying some sample sentences, we could see how the tags the model guessed were all either correct or sensible answers considering the context, and the tags were expectable when compared to the training set.
+
+The testing performance changes depending on the parameters such as U or what log is used, and can be calibrated by trial and error. In some cases of ambiguity or more complex sentences, some tag errors are expected, and performance is similar to human.
